@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zhaoxun271828-bot.github.io/sitemap.xml
